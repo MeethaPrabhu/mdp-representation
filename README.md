@@ -16,8 +16,11 @@ The sample states are in the coordinates form [(0,0), (0,1), (0,2), (1,0), (1,1)
 ### Action Space
 There are four actions 
 Left   - 0
+
 Right  - 1
+
 Down   - 2
+
 Up     - 3
 
 ### Sample Action
